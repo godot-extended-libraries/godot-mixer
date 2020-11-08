@@ -2,6 +2,14 @@
 
 **Looking for volunteers to help out. Documentation, coding and general feedback.**
 
+Implementation of https://github.com/godotengine/godot-proposals/issues/851.
+
+## Status 
+
+Not ready, prototyping.
+
+### How to use?
+
 Clone https://gitlab.com/ubisoft-animation-studio/mixer.git and enable it as an addon in Blender.
 
 Clone this repository. `git clone https://github.com/godot-extended-libraries/godot-mixer.git`.
