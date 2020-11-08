@@ -1,4 +1,4 @@
-Mixer Project
+## Mixer Project
 
 **Looking for volunteers to help out. Documentation, coding and general feedback.**
 
