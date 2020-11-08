@@ -2,11 +2,9 @@
 
 **Looking for volunteers to help out. Documentation, coding and general feedback.**
 
-Clone https://gitlab.com/ubisoft-animation-studio/mixer.git and enable it as an addone in Blender.
+Clone https://gitlab.com/ubisoft-animation-studio/mixer.git and enable it as an addon in Blender.
 
-Clone this repository.
-
-Copy the correct platform blender and put it at the root of the project.
+Clone this repository. `git clone https://github.com/godot-extended-libraries/godot-mixer.git`.
 
 Open stable 3.2 build and launch the project.
 
