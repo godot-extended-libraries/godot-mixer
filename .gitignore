@@ -1,3 +1,9 @@
+
+# Created by https://www.toptal.com/developers/gitignore/api/godot
+# Edit at https://www.toptal.com/developers/gitignore?templates=godot
+
+### Godot ###
+
 # Godot-specific ignores
 .import/
 export.cfg
@@ -10,4 +16,4 @@ export_presets.cfg
 .mono/
 data_*/
 
-__pycache__/
+# End of https://www.toptal.com/developers/gitignore/api/godot
