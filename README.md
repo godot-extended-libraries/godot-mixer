@@ -6,7 +6,7 @@ Implementation of https://github.com/godotengine/godot-proposals/issues/851.
 
 ## Status 
 
-Not ready, prototyping.
+Not ready. This is a prototype. The goal is to have a godot engine module for this since it involves mesh manipulation from the network to the editor.
 
 ### How to use?
 
